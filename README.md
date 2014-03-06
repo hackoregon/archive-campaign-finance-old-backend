@@ -13,3 +13,5 @@ To run the demo locally you will need the following data file:
 https://s3-us-west-2.amazonaws.com/mp-orestar-dump/all.pickle
 
 Then just run 'python demo.py' and the server will run locally on port 5000.
+
+The data is also available in CSVs. https://s3-us-west-2.amazonaws.com/mp-orestar-dump/orestar.tgz
