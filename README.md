@@ -66,3 +66,9 @@ LEFT OUTER JOIN dates_table
 GROUP BY series_table.date, dates_table.filer_id, dates_table.sub_type, dates_table.sum
 ORDER BY series_table.date;
 
+
+
+AWS login
+---------
+
+https://308682604918.signin.aws.amazon.com/console
