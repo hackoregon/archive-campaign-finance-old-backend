@@ -15,3 +15,8 @@ https://s3-us-west-2.amazonaws.com/mp-orestar-dump/all.pickle
 Then just run 'python demo.py' and the server will run locally on port 5000.
 
 The data is also available in CSVs. https://s3-us-west-2.amazonaws.com/mp-orestar-dump/orestar.tgz
+
+
+The postgres database dump:
+
+https://s3-us-west-2.amazonaws.com/mp-orestar-dump/hackoregon.sql.gz
